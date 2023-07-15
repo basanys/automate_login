@@ -23,4 +23,6 @@ and add this line inside
 
 `1 7 * * * python3 INSERT_PATH_HERE/automate_login.py`  
 
+which takes care of login at 07:01 daily.
+
 
